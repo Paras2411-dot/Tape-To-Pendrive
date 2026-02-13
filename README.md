@@ -59,7 +59,6 @@
                     <ul class="text-left space-y-2 mb-8">
                         <li><i class="fas fa-check text-green-500 mr-2"></i> High Quality Digital File</li>
                         <li><i class="fas fa-check text-green-500 mr-2"></i> Free Pen Drive Shamil Hai</li>
-                        <li><i class="fas fa-check text-green-500 mr-2"></i> Google Drive Upload</li>
                     </ul>
                 </div>
                 <div class="bg-white p-8 rounded-2xl shadow-lg border-t-4 border-yellow-500 text-center relative">
@@ -98,7 +97,7 @@
     <footer class="bg-blue-900 text-white py-12 px-4">
         <div class="container mx-auto text-center">
             <h3 class="text-2xl font-bold mb-4">Digital Memories</h3>
-            <p class="mb-2"><i class="fas fa-map-marker-alt mr-2"></i> Dashmesh Nagar, Dagana Road, Hoshiarpur (Punjab)</p>
+            <p class="mb-2"><i class="fas fa-map-marker-alt mr-2"></i> Dashmesh Nagar, Dagana Road, Street no 9,Hoshiarpur (Punjab)</p>
             <p class="mb-6"><i class="fas fa-phone mr-2"></i> +91 98880 54678</p>
             <div class="flex justify-center gap-6">
                 <a href="https://wa.me/919888054678" class="text-3xl hover:text-green-400"><i class="fab fa-whatsapp"></i></a>
